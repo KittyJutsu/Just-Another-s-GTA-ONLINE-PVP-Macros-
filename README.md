@@ -27,3 +27,11 @@ If you want to use things such as the Buzzard spawn and other CEO functions, you
 -----
 
 Hit me up on Discord : just_another_#5977
+
+
+KNOWN ISSUES : 
+
+The "Call to" macros works only if you have all properties in game and all possible contacts from them. (Thanks to code772 for the info)
+
+Get ammo doesn't work while in CEO mode.
+
