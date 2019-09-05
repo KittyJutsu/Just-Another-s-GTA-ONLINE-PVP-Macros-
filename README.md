@@ -1,6 +1,6 @@
 # quickmacrogta5
 Based off MacMailler's QuickMacro 
-Made by Just_Another for GTAO 1.48
+Made by Just_Another for GTAO 1.48 for UnknownCheats
 -----
 
 
