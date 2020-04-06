@@ -1,6 +1,6 @@
 # quickmacrogta5
 Based off MacMailler's QuickMacro 
-| Made by Just_Another for GTAO 1.48 for UnknownCheats
+| Made by Just_Another for GTAO 1.48 for UnknownCheats | NOT UPDATED FOR WHATEVER VERSION GTA IS ON RIGHT NOW. YOU ARE FREE TO UPDATE IT.
 -----
 
 
@@ -26,7 +26,7 @@ If you want to use things such as the Buzzard spawn and other CEO functions, you
     RCtrl & RShift - Outfit fix
 -----
 
-Hit me up on Discord : just_another_#5977
+
 
 
 KNOWN ISSUES : 
