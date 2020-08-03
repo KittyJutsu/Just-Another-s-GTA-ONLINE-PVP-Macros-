@@ -1,4 +1,4 @@
-# quickmacrogta5
+# Just-Another-s-GTA-ONLINE-PVP-Macros-
 Based off MacMailler's QuickMacro 
 | Made by Just_Another for GTAO 1.48 for UnknownCheats | NOT UPDATED FOR WHATEVER VERSION GTA IS ON RIGHT NOW. YOU ARE FREE TO UPDATE IT.
 -----
